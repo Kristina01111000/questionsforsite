@@ -47,3 +47,29 @@ looks of the site: don't want to look like everyone else
 
 - lavender farm, lavender infused gin, buy gin, specialty cocktails, workshops and educational events at the same time, in summer educational events, culinary lavender, essential oils, pick season, after that essential oils, lavender wreaths workshops,
 - native plants: not started yet, will be whole sale, immediate education for zone b, can order the plants through her, book consultation with her, 2-3 years until propagation is available, get started next summer
+
+focus on lavender for now, 
+limited time to buy native plants, with an end date
+wants a pronunciation thing on website
+
+- about page lavender,
+- about pollinators
+- about native plants
+- shopping
+- contact form email
+- images of farm, 
+- directions page
+- barn renovating to make an event space - 
+- patio - needs to be done
+
+list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography
+include link for people to figure out their zone
+
+subscribe to newsletter, no articles on site 
+
+not ready until october or november another meeting in october to go over website themes
+deposit at second meeting
+she wants maintenance contract 
+email her in beginning of october for another meeting
+
+url of website is name of company FaverollesGardens.com
