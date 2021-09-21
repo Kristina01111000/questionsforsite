@@ -70,7 +70,7 @@ subscribe to newsletter, no articles on site
 not ready until october or november another meeting in october to go over website themes
 deposit at second meeting
 she wants maintenance contract 
-email her in beginning of october for another meeting
+email her on october 1 for another meeting, get name and have cost ready
 
 url of website is name of company FaverollesGardens.com
 buy it to keep it safe
