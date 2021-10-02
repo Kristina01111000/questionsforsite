@@ -74,3 +74,6 @@ email her on october 1 for another meeting, get name and have cost ready
 
 url of website is name of company FaverollesGardens.com
 buy it to keep it safe
+
+
+emailed her, figure out cost for website before meeting
