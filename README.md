@@ -77,3 +77,5 @@ buy it to keep it safe
 
 
 emailed her, figure out cost for website before meeting
+meeting tuesday @ noon, 
+make to do list for meeting
