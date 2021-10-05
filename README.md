@@ -85,3 +85,4 @@ want site built in stages, or not published until its done?
 when do you want it launched?
 if in stages, would you prefer emails for accepting pages, or all then go over it in a zoom meeting?
 make a google doc we both can edit?
+monthly maintenance has to cover website costs
