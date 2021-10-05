@@ -87,3 +87,10 @@ if in stages, would you prefer emails for accepting pages, or all then go over i
 make a google doc we both can edit?
 monthly maintenance has to cover website costs
 need to look up cost of server + ssl, etc
+
+
+didnt get url yet b/c best price is to buy if from host
+think it should be on blue host,  -> hosting recommended by wordpress
+there is a plan specifically for woocommerce, it is much more expensive than the kind that isn't specifically designes for woo commerce
+125 / year vs 239 per year
+
