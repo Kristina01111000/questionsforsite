@@ -89,8 +89,13 @@ monthly maintenance has to cover website costs
 need to look up cost of server + ssl, etc
 
 
+how are you doing?
+
 didnt get url yet b/c best price is to buy if from host
 think it should be on blue host,  -> hosting recommended by wordpress
 there is a plan specifically for woocommerce, it is much more expensive than the kind that isn't specifically designes for woo commerce
 125 / year vs 239 per year
+
+normally i would charge 900 for a site like this, 
+because there is no rush I will charge 700 for the site and 15 a month for maintenance
 
