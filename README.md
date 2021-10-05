@@ -104,3 +104,5 @@ because there is no rush I will charge 700 for the site and 15 a month for maint
 new plan is to sell starting this spring, want to place orders by spring
 pages that describe environments, not check boxes
 have add to cart buttons on pages that describe the different types of environments
+january is website up date, no preorder cutoff, if inventory is out, default to having them request a specific plant
+have it email janet when the inventory is almost out
