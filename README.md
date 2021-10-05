@@ -106,3 +106,7 @@ pages that describe environments, not check boxes
 have add to cart buttons on pages that describe the different types of environments
 january is website up date, no preorder cutoff, if inventory is out, default to having them request a specific plant
 have it email janet when the inventory is almost out
+
+see if woocommerce is good with bank accounts or if paypal charges for businesses
+
+send invoice for the cost of hosting her site  -> done
