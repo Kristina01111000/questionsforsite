@@ -110,3 +110,6 @@ have it email janet when the inventory is almost out
 see if woocommerce is good with bank accounts or if paypal charges for businesses
 
 send invoice for the cost of hosting her site  -> done
+send invoice for dev work -> done
+start site when paid!
+wireframes in email
