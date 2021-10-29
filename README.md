@@ -112,4 +112,5 @@ see if woocommerce is good with bank accounts or if paypal charges for businesse
 send invoice for the cost of hosting her site  -> done
 send invoice for dev work -> done
 start site when paid!
-wireframes in email
+- wireframes in email
+- make sure theme can work with woocommerce
