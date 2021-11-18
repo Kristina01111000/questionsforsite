@@ -114,3 +114,4 @@ send invoice for dev work -> done
 start site when paid!
 - wireframes in email
 - make sure theme can work with woocommerce
+- should be getting the check soon
