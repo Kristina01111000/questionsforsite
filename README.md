@@ -115,3 +115,10 @@ start site when paid!
 - wireframes in email
 - make sure theme can work with woocommerce
 - should be getting the check soon
+
+- letter recieved
+to do:
+- deposit
+- buy name
+- do temp site
+- make site
